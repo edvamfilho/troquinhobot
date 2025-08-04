@@ -1,0 +1,164 @@
+2025-08-03 01:57:03 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-03 01:57:12 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-03 01:57:13 | INFO | [EdvammFilho | ID: 262962267] → Exibido termos de uso | Etapa: etapa1
+2025-08-03 01:57:16 | INFO | [EdvammFilho | ID: 262962267] → Aceitou os termos | Etapa: etapa1
+2025-08-03 01:57:16 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #1: ⏳ Há quanto tempo você conhece criptomoedas? | Etapa: etapa1
+2025-08-03 01:57:31 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #1: Nunca ouvi falar | Etapa: etapa1
+2025-08-03 01:57:31 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #2: 🏦 Em quais exchanges você já criou conta? | Etapa: etapa1
+2025-08-03 01:57:36 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #2: Nenhuma | Etapa: etapa1
+2025-08-03 01:57:37 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #3: 📈 Já realizou algum tipo de trade ou compra/venda? | Etapa: etapa1
+2025-08-03 01:57:41 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #3: Já comprei para hold | Etapa: etapa1
+2025-08-03 01:57:41 | INFO | [EdvammFilho | ID: 262962267] → Nível de conhecimento inferido: Avançado | Etapa: etapa1
+2025-08-03 01:57:42 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #1: 💸 Você está disposto a perder quanto do valor investido? | Etapa: etapa1
+2025-08-03 01:57:47 | INFO | [EdvammFilho | ID: 262962267] → Respondeu risco #1: Nada | Etapa: etapa1
+2025-08-03 01:57:48 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #2: 🛑 Você sabe para que serve um stop-loss? | Etapa: etapa1
+2025-08-03 01:57:54 | INFO | [EdvammFilho | ID: 262962267] → Respondeu risco #2: Nunca ouvi falar | Etapa: etapa1
+2025-08-03 01:57:54 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #3: 📉 Se uma posição cair 50%, o que você faz? | Etapa: etapa1
+2025-08-03 01:57:59 | INFO | [EdvammFilho | ID: 262962267] → Respondeu risco #3: Fecho imediatamente | Etapa: etapa1
+2025-08-03 01:57:59 | INFO | [EdvammFilho | ID: 262962267] → Perfil de risco inferido: Conservador | Etapa: etapa1
+2025-08-03 01:58:00 | INFO | [EdvammFilho | ID: 262962267] → Iniciou etapa 2 – Escolha de exchange | Etapa: etapa2
+2025-08-03 10:54:56 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-03 10:55:20 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-03 10:55:20 | INFO | [EdvammFilho | ID: 262962267] → Exibido termos de uso | Etapa: etapa1
+2025-08-03 10:55:29 | INFO | [EdvammFilho | ID: 262962267] → Aceitou os termos | Etapa: etapa1
+2025-08-03 10:55:29 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #1: ⏳ Há quanto tempo você conhece criptomoedas? | Etapa: etapa1
+2025-08-03 10:55:33 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #1: Nunca ouvi falar | Etapa: etapa1
+2025-08-03 10:55:34 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #2: 🏦 Em quais exchanges você já criou conta? | Etapa: etapa1
+2025-08-03 10:55:38 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #2: Nenhuma | Etapa: etapa1
+2025-08-03 10:55:38 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #3: 📈 Já realizou algum tipo de trade ou compra/venda? | Etapa: etapa1
+2025-08-03 10:55:42 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #3: Já comprei para hold | Etapa: etapa1
+2025-08-03 10:55:42 | INFO | [EdvammFilho | ID: 262962267] → Nível de conhecimento inferido: Avançado | Etapa: etapa1
+2025-08-03 10:55:42 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #1: 💸 Você está disposto a perder quanto do valor investido? | Etapa: etapa1
+2025-08-03 10:56:16 | INFO | [EdvammFilho | ID: 262962267] → Respondeu risco #1: Nada | Etapa: etapa1
+2025-08-03 10:56:17 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #2: 🛑 Você sabe para que serve um stop-loss? | Etapa: etapa1
+2025-08-03 21:03:04 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-03 21:03:12 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-03 21:03:13 | INFO | [EdvammFilho | ID: 262962267] → Exibido termos de uso | Etapa: etapa1
+2025-08-03 21:03:19 | INFO | [EdvammFilho | ID: 262962267] → Aceitou os termos | Etapa: etapa1
+2025-08-03 21:03:20 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #1: ⏳ Há quanto tempo você conhece criptomoedas? | Etapa: etapa1
+2025-08-03 21:03:36 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #1: Nunca ouvi falar | Etapa: etapa1
+2025-08-03 21:03:37 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #2: 🏦 Em quais exchanges você já criou conta? | Etapa: etapa1
+2025-08-03 21:03:45 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #2: Binance | Etapa: etapa1
+2025-08-03 21:03:46 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #3: 📈 Já realizou algum tipo de trade ou compra/venda? | Etapa: etapa1
+2025-08-03 21:03:52 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #3: Já fiz trades na spot | Etapa: etapa1
+2025-08-03 21:03:52 | INFO | [EdvammFilho | ID: 262962267] → Nível de conhecimento inferido: Avançado | Etapa: etapa1
+2025-08-03 21:03:53 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #1: 💸 Você está disposto a perder quanto do valor investido? | Etapa: etapa1
+2025-08-03 21:04:01 | INFO | [EdvammFilho | ID: 262962267] → Respondeu risco #1: Nada | Etapa: etapa1
+2025-08-03 21:04:01 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #2: 🛑 Você sabe para que serve um stop-loss? | Etapa: etapa1
+2025-08-03 21:04:04 | INFO | [EdvammFilho | ID: 262962267] → Respondeu risco #2: Nunca ouvi falar | Etapa: etapa1
+2025-08-03 21:04:04 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #3: 📉 Se uma posição cair 50%, o que você faz? | Etapa: etapa1
+2025-08-03 21:04:13 | INFO | [EdvammFilho | ID: 262962267] → Respondeu risco #3: Aumento a posição | Etapa: etapa1
+2025-08-03 21:04:13 | INFO | [EdvammFilho | ID: 262962267] → Perfil de risco inferido: Agressivo | Etapa: etapa1
+2025-08-03 21:04:14 | INFO | [EdvammFilho | ID: 262962267] → Iniciou etapa 2 – Escolha de exchange | Etapa: etapa2
+2025-08-03 21:11:32 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-03 21:11:55 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-03 21:11:55 | INFO | [EdvammFilho | ID: 262962267] → Exibido termos de uso | Etapa: etapa1
+2025-08-03 21:12:00 | INFO | [EdvammFilho | ID: 262962267] → Aceitou os termos | Etapa: etapa1
+2025-08-03 21:12:00 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #1: ⏳ Há quanto tempo você conhece criptomoedas? | Etapa: etapa1
+2025-08-03 21:12:06 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #1: Nunca ouvi falar | Etapa: etapa1
+2025-08-03 21:12:07 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #2: 🏦 Em quais exchanges você já criou conta? | Etapa: etapa1
+2025-08-03 21:12:16 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #2: Outras | Etapa: etapa1
+2025-08-03 21:12:17 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #3: 📈 Já realizou algum tipo de trade ou compra/venda? | Etapa: etapa1
+2025-08-03 21:12:22 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #3: Nunca | Etapa: etapa1
+2025-08-03 21:12:22 | INFO | [EdvammFilho | ID: 262962267] → Nível de conhecimento inferido: Avançado | Etapa: etapa1
+2025-08-03 21:12:23 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #1: 💸 Você está disposto a perder quanto do valor investido? | Etapa: etapa1
+2025-08-03 21:12:24 | INFO | [EdvammFilho | ID: 262962267] → Respondeu risco #1: Nada | Etapa: etapa1
+2025-08-03 21:12:25 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #2: 🛑 Você sabe para que serve um stop-loss? | Etapa: etapa1
+2025-08-03 21:12:27 | INFO | [EdvammFilho | ID: 262962267] → Respondeu risco #2: Nunca ouvi falar | Etapa: etapa1
+2025-08-03 21:12:28 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #3: 📉 Se uma posição cair 50%, o que você faz? | Etapa: etapa1
+2025-08-03 21:12:29 | INFO | [EdvammFilho | ID: 262962267] → Respondeu risco #3: Fecho imediatamente | Etapa: etapa1
+2025-08-03 21:12:30 | INFO | [EdvammFilho | ID: 262962267] → Perfil de risco inferido: Conservador | Etapa: etapa1
+2025-08-03 21:12:30 | INFO | [EdvammFilho | ID: 262962267] → Iniciou etapa 2 – Escolha de exchange | Etapa: etapa2
+2025-08-03 23:21:13 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-03 23:21:18 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-03 23:21:19 | INFO | [EdvammFilho | ID: 262962267] → Exibido termos de uso | Etapa: etapa1
+2025-08-03 23:21:21 | INFO | [EdvammFilho | ID: 262962267] → Aceitou os termos | Etapa: etapa1
+2025-08-03 23:21:21 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #1: ⏳ Há quanto tempo você conhece criptomoedas? | Etapa: etapa1
+2025-08-03 23:21:26 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #1: Menos de 6 meses | Etapa: etapa1
+2025-08-03 23:21:27 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #2: 🏦 Em quais exchanges você já criou conta? | Etapa: etapa1
+2025-08-03 23:21:30 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #2: Binance | Etapa: etapa1
+2025-08-03 23:21:31 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de conhecimento #3: 📈 Já realizou algum tipo de trade ou compra/venda? | Etapa: etapa1
+2025-08-03 23:21:34 | INFO | [EdvammFilho | ID: 262962267] → Respondeu conhecimento #3: Já comprei para hold | Etapa: etapa1
+2025-08-03 23:21:35 | INFO | [EdvammFilho | ID: 262962267] → Nível de conhecimento inferido: Avançado | Etapa: etapa1
+2025-08-03 23:21:35 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #1: 💸 Você está disposto a perder quanto do valor investido? | Etapa: etapa1
+2025-08-03 23:21:44 | INFO | [EdvammFilho | ID: 262962267] → Respondeu risco #1: Até 10% | Etapa: etapa1
+2025-08-03 23:21:45 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #2: 🛑 Você sabe para que serve um stop-loss? | Etapa: etapa1
+2025-08-03 23:21:47 | INFO | [EdvammFilho | ID: 262962267] → Respondeu risco #2: Nunca ouvi falar | Etapa: etapa1
+2025-08-03 23:21:48 | INFO | [EdvammFilho | ID: 262962267] → Enviou pergunta de risco #3: 📉 Se uma posição cair 50%, o que você faz? | Etapa: etapa1
+2025-08-03 23:21:49 | INFO | [EdvammFilho | ID: 262962267] → Respondeu risco #3: Fecho imediatamente | Etapa: etapa1
+2025-08-03 23:21:50 | INFO | [EdvammFilho | ID: 262962267] → Perfil de risco inferido: Moderado | Etapa: etapa1
+2025-08-03 23:21:50 | INFO | [EdvammFilho | ID: 262962267] → Iniciou etapa 2 – Escolha de exchange | Etapa: etapa2
+2025-08-04 01:50:45 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-04 01:50:54 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-04 01:54:05 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-04 01:54:07 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-04 01:54:10 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: ver_termos | Etapa: inicio
+2025-08-04 01:54:21 | INFO | [EdvammFilho | ID: 262962267] → Enviada introdução da jornada | Etapa: etapa1
+2025-08-04 01:54:37 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-04 01:54:40 | INFO | [EdvammFilho | ID: 262962267] → Enviada introdução da jornada | Etapa: etapa1
+2025-08-04 01:59:11 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-04 01:59:15 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: ver_termos | Etapa: inicio
+2025-08-04 01:59:18 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-04 01:59:21 | INFO | [EdvammFilho | ID: 262962267] → Enviada introdução da jornada | Etapa: etapa1
+2025-08-04 01:59:21 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #1: ⏳ Há quanto tempo você conhece criptomoedas? | Etapa: etapa1
+2025-08-04 02:08:07 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-04 02:08:10 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-04 02:08:12 | INFO | [EdvammFilho | ID: 262962267] → Enviada introdução da jornada | Etapa: etapa1
+2025-08-04 02:08:13 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #1: ⏳ Há quanto tempo você conhece criptomoedas? | Etapa: etapa1
+2025-08-04 02:08:21 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #1: Menos de 6 meses | Etapa: etapa1
+2025-08-04 02:08:21 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #2: 🏦 Em quais exchanges você já criou conta? | Etapa: etapa1
+2025-08-04 02:08:30 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #2: Nenhuma | Etapa: etapa1
+2025-08-04 02:08:31 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #3: 📈 Já realizou algum tipo de trade ou compra/venda? | Etapa: etapa1
+2025-08-04 02:08:37 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #3: Nunca | Etapa: etapa1
+2025-08-04 02:08:39 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #3: Nunca | Etapa: etapa1
+2025-08-04 02:23:57 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-04 02:24:00 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-04 02:24:02 | INFO | [EdvammFilho | ID: 262962267] → Enviada introdução da jornada | Etapa: etapa1
+2025-08-04 02:24:03 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #1: ⏳ Há quanto tempo você conhece criptomoedas? | Etapa: etapa1
+2025-08-04 02:24:05 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #1: Menos de 6 meses | Etapa: etapa1
+2025-08-04 02:24:05 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #2: 🏦 Em quais exchanges você já criou conta? | Etapa: etapa1
+2025-08-04 02:24:10 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #2: Nenhuma | Etapa: etapa1
+2025-08-04 02:24:10 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #3: 📈 Já realizou algum tipo de trade ou compra/venda? | Etapa: etapa1
+2025-08-04 02:24:12 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #3: Nunca | Etapa: etapa1
+2025-08-04 02:24:17 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #3: Nunca | Etapa: etapa1
+2025-08-04 02:24:18 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #3: Já comprei para hold | Etapa: etapa1
+2025-08-04 02:24:19 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #3: Sim, faço trading | Etapa: etapa1
+2025-08-04 02:31:05 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-04 02:31:09 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-04 02:31:11 | INFO | [EdvammFilho | ID: 262962267] → Enviada introdução da jornada | Etapa: etapa1
+2025-08-04 02:33:32 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-04 02:33:35 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-04 02:33:37 | INFO | [EdvammFilho | ID: 262962267] → Enviada introdução da jornada | Etapa: etapa1
+2025-08-04 02:33:37 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #1: ⏳ Há quanto tempo você conhece criptomoedas? | Etapa: etapa1
+2025-08-04 02:33:39 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #1: Menos de 6 meses | Etapa: etapa1
+2025-08-04 02:33:39 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #2: 🏦 Em quais exchanges você já criou conta? | Etapa: etapa1
+2025-08-04 02:33:40 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #2: Nenhuma | Etapa: etapa1
+2025-08-04 02:33:41 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #3: 📈 Já realizou algum tipo de trade ou compra/venda? | Etapa: etapa1
+2025-08-04 02:33:42 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #3: Nunca | Etapa: etapa1
+2025-08-04 02:33:45 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #3: Já comprei para hold | Etapa: etapa1
+2025-08-04 02:37:30 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-04 02:37:32 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-04 02:37:35 | INFO | [EdvammFilho | ID: 262962267] → Enviada introdução da jornada | Etapa: etapa1
+2025-08-04 02:37:35 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #1: ⏳ Há quanto tempo você conhece criptomoedas? | Etapa: etapa1
+2025-08-04 02:37:37 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #1: Menos de 6 meses | Etapa: etapa1
+2025-08-04 02:37:37 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #2: 🏦 Em quais exchanges você já criou conta? | Etapa: etapa1
+2025-08-04 02:37:39 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #2: Nenhuma | Etapa: etapa1
+2025-08-04 02:37:39 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #3: 📈 Já realizou algum tipo de trade ou compra/venda? | Etapa: etapa1
+2025-08-04 02:37:40 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #3: Nunca | Etapa: etapa1
+2025-08-04 02:37:41 | INFO | [sem_username | ID: N/A] → Enviou pergunta de risco #1: 💸 Você está disposto a perder quanto do valor investido? | Etapa: etapa1
+2025-08-04 02:41:48 | INFO | [EdvammFilho | ID: 262962267] → Usuário iniciou com /inicio | Etapa: inicio
+2025-08-04 02:41:50 | INFO | [EdvammFilho | ID: 262962267] → Clicou em botão: iniciar_trilha | Etapa: inicio
+2025-08-04 02:41:53 | INFO | [EdvammFilho | ID: 262962267] → Enviada introdução da jornada | Etapa: etapa1
+2025-08-04 02:41:53 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #1: ⏳ Há quanto tempo você conhece criptomoedas? | Etapa: etapa1
+2025-08-04 02:41:56 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #1: Mais de 2 anos | Etapa: etapa1
+2025-08-04 02:41:56 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #2: 🏦 Em quais exchanges você já criou conta? | Etapa: etapa1
+2025-08-04 02:42:00 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #2: Binance | Etapa: etapa1
+2025-08-04 02:42:00 | INFO | [sem_username | ID: N/A] → Enviou pergunta de conhecimento #3: 📈 Já realizou algum tipo de trade ou compra/venda? | Etapa: etapa1
+2025-08-04 02:42:03 | INFO | [sem_username | ID: N/A] → Respondeu conhecimento #3: Sim, faço trading | Etapa: etapa1
+2025-08-04 02:42:04 | INFO | [sem_username | ID: N/A] → Enviou pergunta de risco #1: 💸 Você está disposto a perder quanto do valor investido? | Etapa: etapa1
+2025-08-04 02:42:11 | INFO | [sem_username | ID: N/A] → Respondeu risco #1: Até 10% | Etapa: etapa1
+2025-08-04 02:42:11 | INFO | [sem_username | ID: N/A] → Enviou pergunta de risco #2: 🛑 Você sabe para que serve um stop-loss? | Etapa: etapa1
+2025-08-04 02:42:15 | INFO | [sem_username | ID: N/A] → Respondeu risco #2: Nunca ouvi falar | Etapa: etapa1
+2025-08-04 02:42:16 | INFO | [sem_username | ID: N/A] → Enviou pergunta de risco #3: 📉 Se uma posição cair 50%, o que você faz? | Etapa: etapa1
+2025-08-04 02:42:21 | INFO | [sem_username | ID: N/A] → Respondeu risco #3: Fecho imediatamente | Etapa: etapa1
+2025-08-04 02:42:21 | INFO | [sem_username | ID: N/A] → Perfil de risco inferido: Conservador | Etapa: etapa1

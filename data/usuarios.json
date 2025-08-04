@@ -1,0 +1,27 @@
+{
+    "262962267": {
+        "etapa": "etapa1",
+        "passo": 0,
+        "respostas": {
+            "conhecimento_q1": "Menos de 6 meses",
+            "conhecimento_q2": "Binance",
+            "conhecimento_q3": "Já comprei para hold",
+            "nivel_conhecimento": "Avançado",
+            "risco_q1": "Até 10%",
+            "risco_q2": "Nunca ouvi falar",
+            "risco_q3": "Fecho imediatamente",
+            "perfil_risco": "Moderado"
+        },
+        "ultima_atividade": "2025-08-04T02:21:50.448044",
+        "respostas_conhecimento": {
+            "0": "Mais de 2 anos",
+            "1": "Binance",
+            "2": "Sim, faço trading"
+        },
+        "respostas_risco": {
+            "0": "Até 10%",
+            "1": "Nunca ouvi falar",
+            "2": "Fecho imediatamente"
+        }
+    }
+}
